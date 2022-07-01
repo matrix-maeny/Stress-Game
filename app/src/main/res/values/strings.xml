@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Stress Game</string>
+    <string name="easy_level">Easy</string>
+    <string name="medium_level">Medium</string>
+    <string name="difficult_level">Difficult</string>
+    <string name="win_string">!…Congratulations…!</string>
+    <string name="lose_string">!…Keep trying…!</string>
+    <string name="play_again">Play again</string>
+    <string name="replay">Replay</string>
+    <string name="about">Hi, I\'m Matrix.\n\nThis Game designed to create fun to your brain and to relieve stress to a certain extent.\n\nYou need to hit the moving disk to gain points.\n\nIt consists of three levels in which the level \'Difficult\' is more complex.\n\nThis game improves your reflexes to hit the moving disk.\n\n\nSerial no: 36\nDate of creation: 19 May 2022\nContact us: matrixinventions@gmail.com</string>
+</resources>

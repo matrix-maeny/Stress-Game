@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="GameBoard">
+
+        <attr name="borderColor" format="color"/>
+        <attr name="diskColor" format="color"/>
+        <attr name="diskClickedColor" format="color"/>
+        <attr name="backgroundColor" format="color"/>
+    </declare-styleable>
+
+</resources>
